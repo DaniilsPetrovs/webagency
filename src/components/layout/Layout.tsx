@@ -174,9 +174,9 @@ const Layout = ({
                     href="/images/favicon.png"
                     type="image/x-icon"
                 /> */}
-                <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
-                <link rel="icon" href="/images/favicon.png" type="image/png" />
-                <link rel="apple-touch-icon" href="/images/favicon.png" />
+                <link rel="icon" href="./images/favicon.ico" type="image/x-icon" />
+                <link rel="icon" href="./images/favicon.png" type="image/png" />
+                <link rel="apple-touch-icon" href="./images/favicon.png" />
                 <title>Webcosmo | Expert Web & Web3 Development Agency</title>
                 <meta name="keywords" content="web development, web3 development, blockchain, digital agency, smart contract development, decentralized applications, creative design, UI/UX, Webcosmo"/>
                 <meta
