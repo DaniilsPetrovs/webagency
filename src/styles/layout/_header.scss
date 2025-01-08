@@ -539,6 +539,23 @@
   }
 }
 
+
+.mobile-banner {
+  display: none;
+}
+.desktop-banner {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .mobile-banner {
+    display: block;
+  }
+  .desktop-banner {
+    display: none;
+  }
+}
+
 /* ==== 
  --------- (4.01) header styles end ---------
  ==== */
