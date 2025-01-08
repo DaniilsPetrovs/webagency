@@ -2558,8 +2558,11 @@
     overflow: hidden;
     margin: 60px 0px;
     img {
-      width: 100%;
+      // width: 100%;
       min-height: 300px;
+      max-width: 1000px;
+      display: block;
+      margin: 0 auto;
     }
 
     .slide-group {
