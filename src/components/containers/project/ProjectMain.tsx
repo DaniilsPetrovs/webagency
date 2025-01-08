@@ -128,7 +128,7 @@ const ProjectMain = () => {
             trigger: ele,
             pin: true,
             invalidateOnRefresh: true,
-            start: "center center+=60",
+            start: "center center+=100",
             scrub: 1,
             end: () => "+=" + ele.scrollWidth, // Dynamic end calculation
             markers: false, // Enable markers for debugging
