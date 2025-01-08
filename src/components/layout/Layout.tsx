@@ -187,7 +187,7 @@ const Layout = ({
                     property="og:description"
                     content="Webcosmo offers innovative web and Web3 development solutions, from responsive websites to blockchain integrations and dApp development."
                 />
-                <meta property="og:image" content="/images/favicon.png"/>
+                <meta property="og:image" content="https://www.thewebcosmo.com/images/favicon.png"/>
                 <meta property="og:url" content="https://webcosmo.com"/>
                 <meta property="og:type" content="website"/>
                 <meta name="twitter:card" content="summary_large_image"/>
@@ -196,7 +196,7 @@ const Layout = ({
                     name="twitter:description"
                     content="Specializing in web development, blockchain solutions, decentralized applications, e-commerce/shopify and design. Webcosmo transforms your digital vision into reality."
                 />
-                <meta name="twitter:image" content="/images/favicon.png"/>
+                <meta name="twitter:image" content="https://www.thewebcosmo.com/images/favicon.png"/>
 
                 <link rel="me" href="https://wa.me/37120024614" />
                 <link rel="me" href="https://x.com/thewebcosmo" />
