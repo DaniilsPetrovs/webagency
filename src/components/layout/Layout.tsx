@@ -169,11 +169,13 @@ const Layout = ({
             <Head>
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-                <link
+{/*                 <link
                     rel="shortcut icon"
                     href="/images/favicon.png"
                     type="image/x-icon"
-                />
+                /> */}
+                <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+                <link rel="icon" href="/images/favicon.png" type="image/png" />
                 <title>Webcosmo | Expert Web & Web3 Development Agency</title>
                 <meta name="keywords" content="web development, web3 development, blockchain, digital agency, smart contract development, decentralized applications, creative design, UI/UX, Webcosmo"/>
                 <meta
