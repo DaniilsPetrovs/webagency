@@ -190,7 +190,7 @@ const Layout = ({
                     property="og:description"
                     content="Webcosmo offers innovative web and Web3 development solutions, from responsive websites to blockchain integrations and dApp development."
                 />
-                <meta property="og:image" content="https://www.thewebcosmo.com/images/favicon.png"/>
+                <meta property="og:image" content="https://www.thewebcosmo.com/images/thump.png"/>
                 <meta property="og:url" content="https://webcosmo.com"/>
                 <meta property="og:type" content="website"/>
                 <meta name="twitter:card" content="summary_large_image"/>
